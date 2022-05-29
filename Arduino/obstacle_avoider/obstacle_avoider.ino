@@ -7,10 +7,10 @@
  */
 
 //User Macros to defin pin numbers
-#define in1 7
-#define in2 8
-#define in3 9
-#define in4 10
+#define in1 7;
+#define in2 8;
+#define in3 9;
+#define in4 10;
 
 void setup()
 {
